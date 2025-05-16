@@ -1,4 +1,4 @@
-# Connectify
+# Connext
 
 **Real-Time Group Video Calling Web Application using WebRTC and Agora**
 
